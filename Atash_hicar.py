@@ -1,4 +1,4 @@
-# Decode By Error x Ethan 
+# Decode By Error x Ethan
 
 global loop
 global cps
